@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577691089333",
+    "project_id": "gaurav-messenger-7064a",
+    "storage_bucket": "gaurav-messenger-7064a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577691089333:android:84ffca69598aa70c0741fc",
+        "android_client_info": {
+          "package_name": "com.example.gauravmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC9ykpAv5sIX6MGV7Rp0pW8lGtyPPUT-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Builder",
+            "request": "launch",
+            "mainClass": "java.String.StringBuilder.Builder",
+            "projectName": "java_576b17a1"
+        },
+        {
+            "type": "java",
+            "name": "Builder",
+            "request": "launch",
+            "mainClass": "String.StringBuilder.Builder",
+            "projectName": "java_576b17a1"
+        },
+        {
+            "type": "java",
+            "name": "Frequency",
+            "request": "launch",
+            "mainClass": "Hashing.Frequency",
+            "projectName": "java_576b17a1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Hashing.Hashmap",
+            "projectName": "java_576b17a1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TryCatch.Main",
+            "projectName": "java_576b17a1"
+        },
+        {
+            "type": "java",
+            "name": "Try_Catch",
+            "request": "launch",
+            "mainClass": "TryCatch.Try_Catch",
+            "projectName": "java_576b17a1"
+        }
+    ]
+}
